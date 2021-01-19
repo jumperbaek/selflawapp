@@ -1,0 +1,26 @@
+.delete_button {
+
+}
+
+.Loan_state {
+}
+
+.Loan_state + .Loan_state {
+    margin-top: 20px;
+}
+
+.Loan_date {
+
+}
+
+.Loan_money {
+
+}
+
+.Loan_date_desc {
+
+}
+
+.Loan_money_desc {
+
+}

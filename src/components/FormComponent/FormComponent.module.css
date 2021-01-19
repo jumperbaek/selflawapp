@@ -1,0 +1,8 @@
+/*    margin-top: 30px;*/
+
+.form_component {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
